@@ -213,6 +213,6 @@ $S=K=100,\ r=5\%,\ \sigma=20\%,\ T=1$:
 
 ## Notes
 
-Built and deployed by Devjit.
+Built and deployed by Devjit Bhattacharya.
 
 *Educational use only — not investment advice.*
