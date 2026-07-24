@@ -8,7 +8,6 @@ visually — how the binomial price **converges to Black–Scholes** as the numb
 of steps grows. This is the conceptual on-ramp to no-arbitrage / risk-neutral
 valuation.
 
-![lattice + convergence dashboard](https://img.shields.io/badge/Flask-dashboard-6ea8fe)
 
 **Live demo:** [binomial-tree-pricer.vercel.app](https://binomial-tree-pricer.vercel.app)
 
