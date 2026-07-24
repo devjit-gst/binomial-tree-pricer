@@ -1,8 +1,7 @@
 # Binomial Tree Pricer
 
-**Quant Researcher · Intro level**
 
-A beautiful, interactive Flask dashboard that teaches **risk-neutral pricing**
+An interactive Flask dashboard that teaches **risk-neutral pricing**
 from the ground up. It builds the Cox–Ross–Rubinstein (CRR) binomial tree,
 prices European and American vanilla options by backward induction, and shows —
 visually — how the binomial price **converges to Black–Scholes** as the number
@@ -15,7 +14,7 @@ valuation.
 
 ---
 
-## Why this project exists
+## Why build this
 
 Almost every derivatives-pricing idea a quant researcher uses — martingale
 measures, no-arbitrage, replication, PDE/expectation duality — can be seen in
